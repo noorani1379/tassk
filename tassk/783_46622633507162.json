@@ -1,0 +1,3698 @@
+[
+    {
+        "process_name": "اصلی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریت پشتیبانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مشاوره و تبلیغات",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مشاوره و راهنمایی به مراجعین",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 440,
+                "average_execution_time": "6.16",
+                "total_calculations": "2,745.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تبلیغات آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 70,
+                "average_execution_time": "5.20",
+                "total_calculations": "460.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تامین و تدارک مواد و تجهیزات",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برنامه ریزی و مدیریت مواد مصرفی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 1060,
+                "average_execution_time": "3.63",
+                "total_calculations": "618.70"
+            }
+        ]
+    },
+    {
+        "process_name": "خرید کالا",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 630,
+                "average_execution_time": "17.92",
+                "total_calculations": "4,025.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آموزش",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برنامه ریزی و نیاز سنجی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 145,
+                "average_execution_time": "1.61",
+                "total_calculations": "1,246.62"
+            }
+        ]
+    },
+    {
+        "process_name": "انعقاد تفاهم نامه آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 185,
+                "average_execution_time": "0.71",
+                "total_calculations": "185.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری دوره آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 1424,
+                "average_execution_time": "4.09",
+                "total_calculations": "7,964.80"
+            }
+        ]
+    },
+    {
+        "process_name": "ارزیابی دوره آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 1145,
+                "average_execution_time": "3.78",
+                "total_calculations": "1,274.88"
+            }
+        ]
+    },
+    {
+        "process_name": "بازدیدهای آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 790,
+                "average_execution_time": "0.98",
+                "total_calculations": "1,035.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اعزام به مسابقات ملی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 435,
+                "average_execution_time": "2.12",
+                "total_calculations": "1,359.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پژوهش و تحقیقات",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ایجاد، ارتقا و تکمیل کارگاه آموزشی (TMC)",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 745,
+                "average_execution_time": "1.05",
+                "total_calculations": "349.20"
+            }
+        ]
+    },
+    {
+        "process_name": "طراحی و ساخت (تبصره 75)",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 230,
+                "average_execution_time": "1.17",
+                "total_calculations": "235.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امور آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آموزش مربیان و مدیران آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نظارت بر فرآیند تایید دوره های آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 10,
+                "average_execution_time": "0.56",
+                "total_calculations": "50.00"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور مجوز مربیگری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور پروانه تأسیس",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تغییر رشته در آموزشگاه های دایر",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تعیین شهریه آموزشگاه ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انتخاب موسس، مدیر و مربی نمونه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تغییر مکان آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "افزایش حرفه آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نظارت و بازرسی از آموزشگاه ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تسهیلات تبصره 35",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اماکن غیر مجاز آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تسهیلات تبصره34",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "سنجش و ارزشیابی مهارت",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری آزمون آنلاین و کاغذی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 1875,
+                "average_execution_time": "1.02",
+                "total_calculations": "2,684.70"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری آزمون عملی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 443,
+                "average_execution_time": "7.38",
+                "total_calculations": "2,500.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تمدید صنعت ساختمان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 27,
+                "average_execution_time": "5.71",
+                "total_calculations": "710.00"
+            }
+        ]
+    },
+    {
+        "process_name": "طراحی پروژه عملی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 550,
+                "average_execution_time": "0.28",
+                "total_calculations": "150.71"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور تاییدیه ارتقا مهارت و ارزشیابی برای دوره های بخشی از استاندارد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رسیدگی به اعتراض مربیان و کاراموزان به آزمون",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 85,
+                "average_execution_time": "2.00",
+                "total_calculations": "170.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رهگیری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رهگیری اشتغال مهارت آموختگان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 510,
+                "average_execution_time": "1.15",
+                "total_calculations": "585.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریت منابع مالی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریت اموال",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 420,
+                "average_execution_time": "6.03",
+                "total_calculations": "1,999.92"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریت دارایی های فیزیکی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نگهداری و تعمیرات دارایی ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 640,
+                "average_execution_time": "1.14",
+                "total_calculations": "2,938.31"
+            }
+        ]
+    },
+    {
+        "process_name": "حفاظت فیزیکی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 250,
+                "average_execution_time": "13.20",
+                "total_calculations": "5,500.00"
+            }
+        ]
+    },
+    {
+        "process_name": "خدمات نظافت",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 200,
+                "average_execution_time": "22.00",
+                "total_calculations": "4,400.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریت ایمنی، بهداشت و محیط زیست",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بازدید و بازرسی HSE",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 360,
+                "average_execution_time": "0.46",
+                "total_calculations": "254.58"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریت حوادث",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 65,
+                "average_execution_time": "0.11",
+                "total_calculations": "10.40"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریت انرژی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 60,
+                "average_execution_time": "0.50",
+                "total_calculations": "180.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریت منابع انسانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "جذب و بکارگیری مربی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 370,
+                "average_execution_time": "0.44",
+                "total_calculations": "560.00"
+            }
+        ]
+    },
+    {
+        "process_name": "گزارش کارکرد پرسنلی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 350,
+                "average_execution_time": "2.85",
+                "total_calculations": "536.60"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور حکم کارگزینی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارزیابی عملکرد کارکنان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 210,
+                "average_execution_time": "0.08",
+                "total_calculations": "17.43"
+            }
+        ]
+    },
+    {
+        "process_name": "امور رفاهی کارکنان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 35,
+                "average_execution_time": "2.27",
+                "total_calculations": "200.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امور نقلیه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 60,
+                "average_execution_time": "3.67",
+                "total_calculations": "1,320.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارتقاء و توسعه توانمندی مربیان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 6905,
+                "average_execution_time": "0.07",
+                "total_calculations": "869.52"
+            }
+        ]
+    },
+    {
+        "process_name": "اجرای طرح اعتبار سنجی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 2795,
+                "average_execution_time": "0.06",
+                "total_calculations": "232.92"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریت روابط بیرونی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امور دبیرحانه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 75,
+                "average_execution_time": "13.50",
+                "total_calculations": "1,395.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری مراسمات و مسابقات",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 105,
+                "average_execution_time": "0.56",
+                "total_calculations": "285.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انتشارات",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 10,
+                "average_execution_time": "22.00",
+                "total_calculations": "220.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اصلی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریتی و پشتیبانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اداره آموزش، پژوهش و برنامه ریزی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آموزش های در کارگاه های ثابت و شعب شهری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اداره آموزشگاه های آزاد و مشارکت های مردمی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اداره سنجش و ارزشیابی مهارت",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "کارشناس بودجه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "فناوری اطلاعات",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارزیابی عملکرد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بازرسی و پاسخگویی به شکایات",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "روابط عمومی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "کارشناس ساختمان اداره کل",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امورحقوقی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اداره امور عمومی و پشتیبانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "دریافت و پرداخت",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "واحد انبار",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیر مالی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اجرای طرح اعتبار سنجی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "واحد اموال",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تنظیم حساب",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آموزش سیار در مناطق شهری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مهارت آموزی در محیط کار واقعی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برنامه ریزی به منظور اجرای تفاهم نامه های ملی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نیازسنجی و بازاریابی آموزش",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پژوهش",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "طرح و برنامه درسی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "المپیاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مشاوره و هدایت آموزشی و شغلی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رهگیری اشتغال مهارت آموختگان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تنظیم برنامه آموزشی و اجرائی سالانه استان و ارزیابی مستمر آن",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مستندسازی آموزش ها در پورتال جامع",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارزیابی جامع عملکرد مرکز در حوزه معاونت آموزش، پژوهش و برنامه ریزی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بازدیدهای تخصصی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارزیابی عملکرد سالانه مربیان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "جذب مربیان برون سازمانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ایجاد،ارتقا و تکمیل کارگاه های آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریت بکارگیری مربیان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "توانمندسازی مربیان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بررسی شرایط ارتقاء طبقه مربیان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "HSE",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برنامه ریزی و مدیریت تامین و بهره برداری از تجهیزات آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "کمیته خرید",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برنامه ریزی و مدیریت تامین و بهره برداری مواد مصرفی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ساماندهی فضاهای آموزشی مراکز",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انتخاب مربی و رئیس مرکز نمونه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "توانمندسازی کارشناسان آموزش مراکز و اداره کل",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "شورای مهارت آموزی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تجمیع آموزش های مهارتی استان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "طرح شهید رجایی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری همایش ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارسال گزارشات درون سازمانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امورشگاه های غیر مجاز",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "همکاری با کاراموزان المپیادی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رسیدگی به شکایات حضوری و تلفنی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مجمع خیرین",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اماکن غیر مجاز آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آمار مالیاتی آموزشگاه های آزاد استان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تعهد سالانه استان در حوزه آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "دستورالعمل ها و ضوابط مربوط به اداره آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "گردهمایی مدیران و موسسین آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری جلسات هیأت نظارت استان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تغییر مکان آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انتخاب مدیر ، مربی و موسس نمونه آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رتبه بندی آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "استفاده از تسهیلات مربوط به تبصره ماده 34 آئین نامه نحوه تشکیل و اداره آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "استفاده از تسهیلات مربوط به تبصره ماده 35 آئین نامه نحوه تشکیل و اداره آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "افزایش حرفه آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نظارت و بازرسی از آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تعیین، بررسی، تایید و ابلاغ شهریه آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آموزش مدیران و مربیان آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بررسی و تایید دوره های آموزشی آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور/تمدید ابلاغ مربیگری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "افزایش رشته جهت آموزشگاه های آزاد دایر",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور / تمدید پروانه تاسیس آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پیگیری تخلفات در آزمون",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تمدید و تعویض گواهی نامه ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور گواهینامه های الکترونیکی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نظارت بر برگزاری آزمونهای عملی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ممیزی سوالات و پروژه ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری آزمونهای آنلاین",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری آزمونها کاغذی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انعقاد تفاهم نامه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رهگیری اشتغال مهارت آموختگان آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "سامانه سپهر",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پیش بینی و تنظیم بودجه سالانه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "دریافت و ابلاغ بودجه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نظارت بر بودجه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پشتیبانی سخت افزاری سیستم ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پشتیبانی شبکه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پشتیبانی و نگهداری سرورها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پیگیری قرادادهای پشتیبانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امنیت شبکه و سیستم ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "طراحی و بروزرسانی وب سایت",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آموزش",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پیاده سازی نرم افزاری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارائه آمار",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بهبود مدیریت",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امور ارتقاء سلامت اداری و صیانت از حقوق مردم",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارزیابی عملکردواحدها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بازرسی و نظارت بر واحدها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پاسخگویی به شکایات و رسیدگی به انتقادات و گزارشات مردمی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "سیستم مدیریت پروژه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پیاده سازی، اجرا و پایش مدیریت فرآیند",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری نشست خبری، تور رسانه ای و پوشش رسانه­ای برنامه­های سازمانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "طراحی و چاپ اینفو گرافی، بروشور، پوستر، بنر، کتابچه، کتاب و...",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مديريت، نظارت و به روزرساني پایگاه اطلاع رسانی اداره کل",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "همکاری در برگزاری نمایشگاه­ها، همایش­ها و جشنواره­ها، کارگاه های آموزشی و ....",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تهیه محتوای الکترونیک برای انتشار از شبکه های اجتماعی، تلویزیون شهری و ...",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "راهبری، نظارت و ارزیابی عملکرد روابط عمومی های مراکز",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انجام بازدید های درون و برون سازمانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اجرای برنامه های مرتبط با المپیاد ملی مهارت",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اجرای برنامه های مناسبتی مذهبی و سازمانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اجرای ویژه برنامه های مرتبط با هفته ملی مهارت",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "فعالیتهای مرتبط با اقامه نماز و مسابقات قرآنی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پیگیری اعتبارات تملک دارایی استانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "احصاء قوانین و بخشنامه های مرتبط",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بهسازی ونوسازی فضاهای اداره کل و مراکز تعمیرات و بازسازی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "احداث وتکمیل پروژه های نیمه تمام",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "واگذاری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مستند سازی اموال دولتی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مدیریت مصرف انرژی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری همایش ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انعقاد تفاهم نامه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "طرح دعاوی حقوقی و کیفری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انعقاد قرارداد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "واگذاری اموال غیر منقول",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تشکیلات استانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اموراداری کارکنان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "حضور و غیاب کارکنان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "طبقه بندی مشاغل و کمیته فرعی سرمایه انسانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ساماندهی و بکارگیری کارکنان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارزشیابی عملکرد کارکنان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "استقرار نظام انتخاب و انتصاب",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "استخدام و تبديل وضعیت کارکنان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آموزش كاركنان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امور ماموريت آموزشي كاركنان ايثارگر",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امور بيمه خدمات درماني کارکنان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انعقاد قرارداد خدمات بیمه ای",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امور بازنشستگان و مستمری بگیران",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "خدمات رفاهی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ساماندهی مامورسراها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تدارکات و كارپردازي",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "درخواست بلیط/خودرو و تعمیر و نگهداري",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انعقاد قراردادها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ساماندهی نیروهای خدماتی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "هماهنگی مربوط به گزینش",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امور دبیرخانه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امور بایگانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تنظیم اسناد پرداختهای پرسنلی و درخواست وجه حقوق",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تهیه و تنظیم ، ثبت و پرداخت اسناد هزینه های تملک دارایی و اسناد هزینه های جاری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تهیه و تنظیم صورتحسابهای مالی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ورود و خروج کالا",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ثبت اطلاعات اموال در سامانه مربوط",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "همکاری در برگزاری مناقصه و مزایده",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تعمیر و نگهداری اموال",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تطبیق اسناد و مدارک با قوانین و مقررات",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "درامد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری مسابقات آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بهره وری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مشاوره حقوقی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارسال گزارشات درون سازمانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امورشگاه های غیر مجاز",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "همکاری با کاراموزان المپیادی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رسیدگی به شکایات حضوری و تلفنی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اماکن غیر مجاز آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آمار مالیاتی آموزشگاه های آزاد استان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تعهد سالانه استان در حوزه آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "دستورالعمل ها و ضوابط مربوط به اداره آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تغییر مکان آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رتبه بندی آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انتخاب مدیر ، مربی و موسس نمونه آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آموزش مدیران و مربیان آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نظارت و بازرسی از آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تعیین، بررسی، تایید و ابلاغ شهریه آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بررسی و تایید دوره های آموزشی آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور/تمدید ابلاغ مربیگری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "افزایش رشته جهت آموزشگاه های آزاد دایر",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رهگیری اشتغال مهارت آموختگان آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اداره آموزشگاه های آزاد و مشارکت های مردمی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور / تمدید پروانه تاسیس آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری جلسات هیأت نظارت استان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "سامانه سپهر",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رسیدگی به شکایات حضوری و تلفنی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آمار مالیاتی آموزشگاه های آزاد استان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اماکن غیر مجاز آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "دستورالعمل ها و ضوابط مربوط به اداره آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تعهد سالانه استان در حوزه آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری جلسات هیأت نظارت استان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "گردهمایی مدیران و موسسین آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انتخاب مدیر ، مربی و موسس نمونه آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تغییر مکان آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "استفاده از تسهیلات مربوط به تبصره ماده 34 آئین نامه نحوه تشکیل و اداره آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رتبه بندی آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "افزایش حرفه آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "استفاده از تسهیلات مربوط به تبصره ماده 35 آئین نامه نحوه تشکیل و اداره آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نظارت و بازرسی از آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آموزش مدیران و مربیان آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بررسی و تایید دوره های آموزشی آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تعیین، بررسی، تایید و ابلاغ شهریه آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "افزایش رشته جهت آموزشگاه های آزاد دایر",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اداره آموزشگاه های آزاد و مشارکت های مردمی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رهگیری اشتغال مهارت آموختگان آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نیازسنجی و بازاریابی آموزش و انعقاد تفاهم نامه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور / تمدید پروانه تاسیس آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور/تمدید ابلاغ مربیگری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انتخاب مشاور نمونه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مشاوره به دانش آموزان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تهیه گزارش جامع",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "حضور در مدارس",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انتخاب کارافرین نمونه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ابلاغ دستورالعمل به مراکز",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "معرفی کارآفرین نمونه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انتخاب کارافرین نمونه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مشاوره به دانش آموزان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "مستند سازی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انتخاب مشاور نمونه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "سامانه صبا",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بیمه بیکاری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "سامانه رصد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری دوره های کارآفرینی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "شناسایی استعداد های برتر روستایی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پاسخگویی به مراجعین",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "حضور در جلسه ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "سایر امور اداره سنجش",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری وبینار",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ورود و خروج کالا",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "واحد انبار",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تهیه سالنامه آماری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تهیه آمارنامه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بایگانی لیست ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تهیه  گزارشات و آمار",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تعیین صلاحیت آزمون گرایان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بیمه بیکاری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امور آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رسیدگی به شکایات",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "هیئت نظارت",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "فرآیند افتتاحیه ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "سامانه صبا",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "سامانه رصد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نظارت پسینی صنایع و صنوف",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری وبینار",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پشتیبانی نرم افزاری سیستم ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پاسخگویی به مراجعات حضوری و تلفنی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری جلسات ستاد ارزشیابی و تصمیم گیریی کلان و پیگیری های مصوبات",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "پیگیری مواد مصرفی و تجهیزات در مرکز سنجش",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اداره آموزشگاه های آزاد و مشارکت های مردمی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور / تمدید پروانه تاسیس آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "افزایش رشته جهت آموزشگاه های آزاد دایر",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "صدور/تمدید ابلاغ مربیگری",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "بررسی و تایید دوره های آموزشی آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تعیین، بررسی، تایید و ابلاغ شهریه آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آموزش مدیران و مربیان آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "نظارت و بازرسی از آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رتبه بندی آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انتخاب مدیر ، مربی و موسس نمونه آموزشگاه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "گردهمایی مدیران و موسسین آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری جلسات هیأت نظارت استان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تغییر مکان آموزشگاه های فنی و حرفه ای آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "دستورالعمل ها و ضوابط مربوط به اداره آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "تعهد سالانه استان در حوزه آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "آمار مالیاتی آموزشگاه های آزاد استان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "اماکن غیر مجاز آموزشی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رسیدگی به شکایات حضوری و تلفنی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "همکاری با کاراموزان المپیادی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "امورشگاه های غیر مجاز",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارسال گزارشات درون سازمانی",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "برگزاری همایش ها",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "انعقاد تفاهم نامه",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "رهگیری اشتغال مهارت آموختگان آموزشگاه های آزاد",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "ارتباط با صنوف",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    },
+    {
+        "process_name": "استعلام و پیگیری سوابق کارآموزان",
+        "companies": [
+            {
+                "company_name": "مرکز شماره 1 اراک",
+                "total_frequency": 0,
+                "average_execution_time": "0.00",
+                "total_calculations": "0.00"
+            }
+        ]
+    }
+]
